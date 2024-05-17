@@ -63,4 +63,4 @@ optionImages.forEach((image, index) => {
       result.textContent = userValue === cpuValue ? "Match Draw" : `${outComeValue} Won!!`;
     }, 2500);
   });
-});
+}); 
