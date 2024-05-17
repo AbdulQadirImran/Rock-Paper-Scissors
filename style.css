@@ -101,6 +101,7 @@ body {
 .option_image:hover {
   opacity: 1;
 }
+
 .option_image.active {
   opacity: 1;
 }
