@@ -62,6 +62,7 @@ body {
 .user_result img {
   transform: rotate(90deg);
 }
+
 .cpu_result img {
   transform: rotate(-90deg) rotateY(180deg);
 }
