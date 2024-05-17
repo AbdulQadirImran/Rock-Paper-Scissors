@@ -19,7 +19,7 @@ optionImages.forEach((image, index) => {
       // Remove the "active" class from the other option images
       index !== index2 && image2.classList.remove("active");
     });
-
+ 
     gameContainer.classList.add("start");
 
     // Set a timeout to delay the result calculation
