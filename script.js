@@ -9,7 +9,7 @@ const gameContainer = document.querySelector(".container"),
 optionImages.forEach((image, index) => {
   image.addEventListener("click", (e) => {
     image.classList.add("active");
-
+ 
     userResult.src = cpuResult.src = "images/rock.png";
     result.textContent = "Wait...";
 
