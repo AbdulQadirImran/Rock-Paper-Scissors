@@ -37,6 +37,7 @@ body {
   transform-origin: left;
   animation: userShake 0.7s ease infinite;
 }
+
 @keyframes userShake {
   50% {
     transform: rotate(10deg);
