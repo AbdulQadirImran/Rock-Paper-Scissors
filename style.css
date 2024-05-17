@@ -105,6 +105,7 @@ body {
 .option_image.active {
   opacity: 1;
 }
+
 .option_image img {
   pointer-events: none;
 }
