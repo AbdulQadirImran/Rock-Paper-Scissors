@@ -58,6 +58,7 @@ body {
 .result_images img {
   width: 100px;
 }
+
 .user_result img {
   transform: rotate(90deg);
 }
