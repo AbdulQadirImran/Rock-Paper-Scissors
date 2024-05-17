@@ -97,6 +97,7 @@ body {
   cursor: pointer;
   transition: opacity 0.3s ease;
 }
+
 .option_image:hover {
   opacity: 1;
 }
