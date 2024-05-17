@@ -32,6 +32,7 @@ body {
   display: flex;
   column-gap: 7rem;
 }
+
 .container.start .user_result {
   transform-origin: left;
   animation: userShake 0.7s ease infinite;
