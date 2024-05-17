@@ -15,6 +15,7 @@ body {
   justify-content: center;
   background: #ffff;
 }
+
 ::selection {
   color: #fff;
   background-color: #000;
