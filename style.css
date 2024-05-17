@@ -66,6 +66,7 @@ body {
 .cpu_result img {
   transform: rotate(-90deg) rotateY(180deg);
 }
+
 .result {
   text-align: center;
   font-size: 2rem;
