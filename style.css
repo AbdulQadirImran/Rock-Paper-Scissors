@@ -27,6 +27,7 @@ body {
   background: #fff;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
+
 .result_images {
   display: flex;
   column-gap: 7rem;
