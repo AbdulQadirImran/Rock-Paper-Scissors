@@ -109,6 +109,7 @@ body {
 .option_image img {
   pointer-events: none;
 }
+
 .option_image p {
   color: #000;
   font-size: 1.235rem;
