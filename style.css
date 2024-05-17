@@ -48,6 +48,7 @@ body {
   transform-origin: right;
   animation: cpuShake 0.7s ease infinite;
 }
+
 @keyframes cpuShake {
   50% {
     transform: rotate(-10deg);
