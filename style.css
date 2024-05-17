@@ -88,6 +88,7 @@ body {
 .container.start .option_images {
   pointer-events: none;
 }
+
 .option_image {
   display: flex;
   flex-direction: column;
